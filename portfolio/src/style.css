@@ -1,0 +1,60 @@
+/* App.css */
+.app {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+
+/* Header.css */
+.header {
+  background-image: url('/background.png'); 
+  background-size: cover;                    
+  background-position: center;              
+  background-repeat: no-repeat;              
+  height: 300px;                            
+  display: flex;                             
+  align-items: center;                      
+  justify-content: center;                   
+}
+
+
+.header-overlay h1 {
+  font-size: 2.5rem;                         
+  margin: 0;                               
+}
+
+/* About.css */
+.about {
+  padding: 20px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.about p {
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Contact.css */
+.contact {
+  padding: 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.contact p {
+  font-size: 1rem;
+  color: #333;
+}
+
+
